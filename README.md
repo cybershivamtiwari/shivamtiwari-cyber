@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamtiwari-cyber
+- 👋 Hi, I’m @cybershivamtiwari
 - 👀 I’m interested in machine learning , AI, data science,data scientist , full stack development
 - 🌱 I’m currently learning andriod development
 - 💞️ I’m looking to collaborate on andriod development
